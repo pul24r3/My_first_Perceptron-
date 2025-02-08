@@ -1,6 +1,6 @@
 # My_first_Perceptron-
 un modele de classification lineaire 
-Voici un exemple de fichier README en Markdown pour ton projet :
+ :
 
 ---
 
