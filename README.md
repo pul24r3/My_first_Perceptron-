@@ -72,14 +72,8 @@ Vous pouvez :
 
 ## Auteur
 
-*Votre Nom*  
-*Votre Email (facultatif)*
-
----
-
-## Licence
-
-Ce projet est distribué sous la licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus d'informations.
+*Joseph BAMENOU  
+*Jhbmn440gmail.com
 
 ---
 
